@@ -10,14 +10,14 @@ It's pretty straight forward.
 
 * Try print(int(s))
 
-```Python
+```python
 try:
   print(int(S))
 ```
 
 * Except print("Bad String")
 
-```Python
+```python
 try:
   print(int(S))
 except:
@@ -26,7 +26,7 @@ except:
 
 ### Final Code
 
-```Python
+```python
 #!/bin/python3
 
 import sys
