@@ -8,14 +8,14 @@ It's pretty straight forward.
 
 ## Code
 
-#### Try print(int(s))
+##### Try print(int(s))
 
 ```python
 try:
   print(int(S))
 ```
 
-#### Except print("Bad String")
+##### Except print("Bad String")
 
 ```python
 try:
