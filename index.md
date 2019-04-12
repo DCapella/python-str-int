@@ -1,21 +1,21 @@
-## Python String to Integer
+# Python String to Integer
 
-### [HackerRank](www.hackerrank.com)
+## [HackerRank](www.hackerrank.com)
 
 > Read a string, S, and print its integer value; if S cannot be converted to an integer, print Bad String.
 
 It's pretty straight forward.
 
-### Code
+## Code
 
-#### Try print(int(s))
+### Try print(int(s))
 
 ```python
 try:
   print(int(S))
 ```
 
-#### Except print("Bad String")
+### Except print("Bad String")
 
 ```python
 try:
@@ -24,7 +24,7 @@ except:
   print("Bad String")
 ```
 
-### Final Code
+## Final Code
 
 ```python
 #!/bin/python3
@@ -40,5 +40,5 @@ except:
   print("Bad String")
 ```
 
-### Conclusion
+## Conclusion
 It's always good to practice a try-except.
