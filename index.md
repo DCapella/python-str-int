@@ -1,6 +1,6 @@
 # Python String to Integer
 
-## [HackerRank](www.hackerrank.com)
+### [HackerRank](www.hackerrank.com)
 
 > Read a string, S, and print its integer value; if S cannot be converted to an integer, print Bad String.
 
@@ -8,14 +8,14 @@ It's pretty straight forward.
 
 ## Code
 
-### Try print(int(s))
+#### Try print(int(s))
 
 ```python
 try:
   print(int(S))
 ```
 
-### Except print("Bad String")
+#### Except print("Bad String")
 
 ```python
 try:
